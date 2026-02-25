@@ -1,8 +1,7 @@
 -- src/main.lua
 
 require("src.mech_data")
-
-local inspect = require("inspect")
+require("inspect")
 
 local mechs = {}
 

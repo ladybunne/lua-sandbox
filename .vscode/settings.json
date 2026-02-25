@@ -1,0 +1,9 @@
+{
+    "code-runner.executorMap": {
+        "lua": "lua -l src/setup $fullFileName"
+    },
+    "Lua.diagnostics.disable": [
+        "undefined-global",
+        "undefined-field"
+    ]
+}

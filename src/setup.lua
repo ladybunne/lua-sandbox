@@ -6,3 +6,4 @@ package.path = 'lua_modules/share/lua/' .. version ..
     '/?/init.lua;' .. package.path
 package.cpath = 'lua_modules/lib/lua/' .. version ..
     '/?.so;' .. package.cpath
+    
